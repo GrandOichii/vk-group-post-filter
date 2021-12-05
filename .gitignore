@@ -1,2 +1,4 @@
 TOKEN
-banned_words.txt
+banned_words*.txt
+priority_words*.txt
+blacklist*.txt
